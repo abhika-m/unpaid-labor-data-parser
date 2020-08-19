@@ -1,0 +1,11 @@
+Country,Area,Age,Survey Availability ,Year,Time use,Women
+Country1, ,Age:15+,1995 - 2004,2002-03,"Unpaid domestic, care and volunteer work",5
+Country1, ,Age:15+,1995 - 2004,2002-03,Paid and subsistence work,2
+Country2, ,Age:15+,2005 and later,2008-09,"Unpaid domestic, care and volunteer work",4
+Country2, ,Age:15+,2005 and later,2008-09,Paid and subsistence work,3
+Country3, ,Age:15+,1995 - 2004,2004,"Unpaid domestic, care and volunteer work",5.5
+Country3, ,Age:5+,1995 - 2004,2004,Paid and subsistence work,2
+Country4, ,Age:20-74,1995 - 2004,2004,"Unpaid domestic, care and volunteer work",5
+Country4, ,Age:20-74,1995 - 2004,2004,Paid and subsistence work,2.5
+Country5, ,Age:10-74,1995 - 2004,2000,"Unpaid domestic, care and volunteer work",4.5
+Country5, ,Age:10-74,1995 - 2004,2000,Paid and subsistence work,2.5
