@@ -1,5 +1,10 @@
 # CSE163Project
 
+Overview:
+
+This project uses python to parse through data of unpaid+paid labor and analyze the disparity within genders
+for the two types of work. It also creates four visual representations using matplotlib.pyplot.
+
 Instructions to Run:
 
 For this project you will need to run the test.py function as well as the main.py function to see
